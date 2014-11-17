@@ -1,8 +1,0 @@
-{
-	"ui": {
-		"defaultScreenId": "home",
-		"screens": {
-			"home": { "uri": "/home" }
-		}
-	}
-}
